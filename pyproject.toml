@@ -1,9 +1,9 @@
 [project]
-name = "my_project"
+name = "biophysics"
 version = "0.1.0"
 description = "A basic Python project."
 authors = [
-    { name = "Your Name", email = "you@example.com" }
+    { name = "Your Name", email = "rhessa.weberlangstaff@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.10"
