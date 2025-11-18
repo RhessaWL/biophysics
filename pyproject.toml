@@ -3,14 +3,16 @@ name = "biophysics"
 version = "0.1.0"
 description = "A basic Python project."
 authors = [
-    { name = "Your Name", email = "rhessa.weberlangstaff@gmail.com" }
+    { name = "Rhessa Weber Langstaff", email = "rhessa.weberlangstaff@gmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 
 dependencies = [
-    # "requests>=2.0",
+    "numpy",
+    "scipy",
+    "matplotlib"
 ]
 
 [build-system]
